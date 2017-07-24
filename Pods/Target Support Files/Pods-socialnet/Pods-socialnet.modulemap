@@ -1,0 +1,6 @@
+framework module Pods_socialnet {
+  umbrella header "Pods-socialnet-umbrella.h"
+
+  export *
+  module * { export * }
+}
